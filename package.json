@@ -1,7 +1,7 @@
 {
   "name": "vuetify-dark-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Dark Syntaxing from the Vuetify.com page",
   "keywords": [
     "syntax",
