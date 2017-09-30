@@ -1,0 +1,16 @@
+{
+  "name": "vuetify-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Dark Syntaxing from the Vuetify.com page",
+  "keywords": [
+    "syntax",
+    "theme",
+    "dark"
+  ],
+  "repository": "https://github.com/cyberduckrecords/vuetify-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
