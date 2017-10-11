@@ -1,5 +1,6 @@
 {
   "name": "vuetify-dark-syntax",
+  "main": "./lib/vuetify-dark-syntax",
   "theme": "syntax",
   "version": "0.1.2",
   "description": "Dark Syntaxing from the Vuetify.com page",
@@ -12,5 +13,14 @@
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
+  },
+  "configSchema": {
+    "dropShadow": {
+      "title": "Drop Shadow",
+      "order": 1,
+      "description": "Adds A Drop Shadow To The Text.",
+      "type": "boolean",
+      "default": true
+    }
   }
 }
